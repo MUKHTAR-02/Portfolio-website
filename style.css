@@ -82,7 +82,7 @@ nav ul li a:hover::after {
     padding: 80px 0;
     color: #ababab;
     scroll-behavior: smooth;
-    height: 100vh;
+    /* height: 100vh; */
 }
 .row {
     display: flex;
@@ -368,7 +368,7 @@ nav .fa-solid {
         display: flex;
         flex-direction: column;
         margin-top: -10vh;
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
     }
     /* .header-img {
         width: 0;
