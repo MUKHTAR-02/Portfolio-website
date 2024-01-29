@@ -72,9 +72,9 @@ nav ul li a:hover::after {
     color: #732f82f3;
 }
 .inner-container {
-    display: flex;
+    /* display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around; */
 }
 
 /* About Me */
@@ -365,8 +365,8 @@ nav .fa-solid {
         font-size: 30px;
     }
     .inner-container {
-        display: flex;
-        flex-direction: column;
+        /* display: flex;
+        flex-direction: column; */
         margin-top: -10vh;
         /* flex-wrap: wrap; */
     }
