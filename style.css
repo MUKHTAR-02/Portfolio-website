@@ -128,7 +128,7 @@ nav ul li a:hover::after {
 .tab-links.active-link::after {
     width: 50%;
 }
-.tab-contents ul li span {
+span {
     color: #b687c09f;
     font-size: 14px;
 }
@@ -263,7 +263,7 @@ nav ul li a:hover::after {
 }
 .btn {
     display: block;
-    margin: 50px auto;
+    margin: 30px auto;
     width: fit-content;
     border: 1px solid #570c6a9f;
     padding: 14px 50px;
